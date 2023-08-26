@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: "tipografiaimagen";
+    src: url(../fonts/LouisGeorgeCafeItalic.ttf);
+}
+ul{
+    align-content: center;
+}
+.letrablanca{
+    color:white;
+    font-size: 100%;
+    margin:0px;
+    padding: 10px;
+    font-family:tipografiaimagen;
+}
