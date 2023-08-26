@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/futinfo/static/css/main.729a894f.css",
+    "main.js": "/futinfo/static/js/main.6ea6a930.js",
+    "static/js/787.cda612ba.chunk.js": "/futinfo/static/js/787.cda612ba.chunk.js",
+    "static/media/realmadrid.png": "/futinfo/static/media/realmadrid.09099c5c85262676ffe2.png",
+    "static/media/sevilla.png": "/futinfo/static/media/sevilla.7e947546b6bc600400ab.png",
+    "static/media/barca.png": "/futinfo/static/media/barca.ef2a11f9def6fd792e53.png",
+    "static/media/atleticomadrid.png": "/futinfo/static/media/atleticomadrid.ef0c68f41354595e59ac.png",
+    "static/media/LouisGeorgeCafeItalic.ttf": "/futinfo/static/media/LouisGeorgeCafeItalic.dc92b4f17f7b2f06a557.ttf",
+    "static/media/Antonio-Bold.ttf": "/futinfo/static/media/Antonio-Bold.a914430f3f31fa93c162.ttf",
+    "index.html": "/futinfo/index.html",
+    "main.729a894f.css.map": "/futinfo/static/css/main.729a894f.css.map",
+    "main.6ea6a930.js.map": "/futinfo/static/js/main.6ea6a930.js.map",
+    "787.cda612ba.chunk.js.map": "/futinfo/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.729a894f.css",
+    "static/js/main.6ea6a930.js"
+  ]
+}
